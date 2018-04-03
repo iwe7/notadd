@@ -23,7 +23,6 @@
 
 - Typescript
 - Node.js & Nest.js
-- React.js & material-ui
 - GraphQL API
 - Redis
 
@@ -38,6 +37,8 @@
 - [x] 原生支持 Websocket 实时通信
 - [x] 原生支持 Grpc ，可跨进程，跨语言，跨服务器通信
 - [ ] 支持 PWA 技术，实现断网提醒，断网表单保存，网页离线消息推送。
+- [x] 灵活完善的注解功能
+- [x] 函数响应式编程
 
 
 ## 模块化设计
