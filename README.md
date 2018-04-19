@@ -82,7 +82,7 @@ More can be imagined ...
 Downloading the Notadd `Node.js` version:
 
 ```shell
-git clone  https://github.com/notadd/notadd --branch next
+git clone  https://github.com/notadd/notadd --branch=next
 cd notadd
 ```
 
