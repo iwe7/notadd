@@ -21,7 +21,6 @@
         "@notadd/internationalization": "~2.4.0",
         "@notadd/logger": "~2.4.0",
         "@notadd/module-demo": "~2.3.0",
-        "@notadd/rpc": "~2.4.0",
         "@notadd/server": "~2.4.0",
         "@notadd/setting": "~2.4.0",
         "@notadd/user": "~2.4.0",
