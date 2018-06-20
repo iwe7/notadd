@@ -1,8 +1,10 @@
 <p align="center"><img src="https://www.notadd.com/src/notado_logo420x96.svg" alt="Notadd Logo."></p>
 <p align="center">
 <a href="https://jq.qq.com/?_wv=1027&k=5qVzRh4" title="Notadd 官方技术交流群"><img src="https://img.shields.io/badge/QQ%20Group-321735506-6782d6.svg?style=flat-square"></a>
-<a href="https://travis-ci.org/notadd/notadd/next" title="Build Status"><img src="https://img.shields.io/travis/notadd/notadd/next.svg?style=flat-square"></a>
+<a href="https://gitq.com/notadd/notadd" title="Build Status"><img src="https://gitq.com/badge.svg"></a>
+<a href="https://travis-ci.org/notadd/next" title="Build Status"><img src="https://img.shields.io/travis/notadd/next.svg?style=flat-square"></a>
 </p>
+
 
 ## [中文文档](README_zh.md)
 
@@ -80,7 +82,7 @@ More can be imagined ...
 Downloading the Notadd `Node.js` version:
 
 ```shell
-git clone --branch https://github.com/notadd/notadd
+git clone  https://github.com/notadd/notadd --branch=next
 cd notadd
 ```
 
